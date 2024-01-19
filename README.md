@@ -2,6 +2,6 @@
 activate learning
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-jupyter notebook --notebook-dir="C:\_Workspace\forJobApplications\freeCodeCamp_-_Data_Analysis_with_Python"
+jupyter notebook --notebook-dir="<Path to desired working folder>"
 
-jupyter lab --notebook-dir="C:\_Workspace\forJobApplications\freeCodeCamp_-_Data_Analysis_with_Python"
+jupyter lab --notebook-dir="<Path to desired working folder>"
