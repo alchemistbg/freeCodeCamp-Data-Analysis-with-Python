@@ -1,6 +1,9 @@
 # [freeCodeCamp Data Analysis with Python](https://www.youtube.com/watch?v=r-uOLxNrNk8)
-activate learning
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+activate \<environment\>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 jupyter notebook --notebook-dir="\<Path to desired working folder\>"
 
